@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "67e5291fc5530ef30941a49f"
+  },
+  "name": "Breakfast",
+  "description": "Start your day with our delicious breakfast options",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e52a0ec5530ef30941a4b5"
+  },
+  "name": "Beverages",
+  "description": "Quench your thirst with our refreshing beverages, including fresh juices, chilled iced coffee, and zesty mojitos",
+  "__v": 0
+}]

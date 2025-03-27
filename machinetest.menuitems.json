@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67e50ef082adab219de0976c"
+  },
+  "name": "new",
+  "description": "uuhh",
+  "price": 7955,
+  "menuId": {
+    "$oid": "67e4f1a5041925bef5a43f97"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e52940c5530ef30941a4a5"
+  },
+  "name": "Omelette ",
+  "description": "hree-egg omelette with cheese and veggies",
+  "price": 5,
+  "menuId": {
+    "$oid": "67e5291fc5530ef30941a49f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e52962c5530ef30941a4a9"
+  },
+  "name": "Pancakes ",
+  "description": "Soft and fluffy pancakes with syrup and butte",
+  "price": 11,
+  "menuId": {
+    "$oid": "67e5291fc5530ef30941a49f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e5297cc5530ef30941a4ad"
+  },
+  "name": "Avocado Toast",
+  "description": "Toast with mashed avocado and cherry tomatoes",
+  "price": 20,
+  "menuId": {
+    "$oid": "67e5291fc5530ef30941a49f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e52a2cc5530ef30941a4bb"
+  },
+  "name": "Orange Juice",
+  "description": " Freshly squeezed orange juice",
+  "price": 5,
+  "menuId": {
+    "$oid": "67e52a0ec5530ef30941a4b5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e52a41c5530ef30941a4bf"
+  },
+  "name": "Iced Coffee",
+  "description": "Cold-brew coffee with milk and ice",
+  "price": 4,
+  "menuId": {
+    "$oid": "67e52a0ec5530ef30941a4b5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e52a5ac5530ef30941a4c3"
+  },
+  "name": "Mojito",
+  "description": "Refreshing mint and lime drink",
+  "price": 10,
+  "menuId": {
+    "$oid": "67e52a0ec5530ef30941a4b5"
+  },
+  "__v": 0
+}]
